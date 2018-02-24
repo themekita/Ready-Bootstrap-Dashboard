@@ -24,7 +24,7 @@ $.notify({
 		from: "bottom",
 		align: "right"
 	},
-	time: 1000
+	time: 1000,
 });
 
 // monthlyChart
