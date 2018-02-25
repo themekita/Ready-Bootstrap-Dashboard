@@ -6574,6 +6574,9 @@ body {
     padding-top: 0px;
   }
 
+  .nav_open {
+    overflow: hidden !important;
+  }
   .nav_open .main-panel, .nav_open .main-header {
     -webkit-transform: translate3d(260px, 0, 0);
     -moz-transform: translate3d(260px, 0, 0);
