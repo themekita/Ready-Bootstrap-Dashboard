@@ -1,8 +1,9 @@
 .update-pro{
-	margin: 15px 25px;}
+	margin: 15px 25px;
+}
 
 .update-pro button {
-		padding: 13px 25px;
+	padding: 13px 25px;
 	background: #4d7cfe;
 	color: #fff;
 	border-radius: 3px;
@@ -98,4 +99,15 @@
 
 .from-show-notify label{
 	padding-top: 0.65rem;
+}
+
+@media screen and (max-width: 500px){
+	.table-typo tr td{
+		display: flex;
+		align-items: center;
+	}
+
+	.table-typo tr td:first-child p{
+		margin-bottom: 0px;
+	}
 }
