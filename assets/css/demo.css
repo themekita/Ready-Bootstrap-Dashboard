@@ -101,7 +101,7 @@
 	padding-top: 0.65rem;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 550px){
 	.table-typo tr td{
 		display: flex;
 		align-items: center;
