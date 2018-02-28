@@ -105,6 +105,7 @@
 	.table-typo tr td{
 		display: flex;
 		align-items: center;
+		word-break: break-word;
 	}
 
 	.table-typo tr td:first-child p{
